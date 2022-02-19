@@ -18,7 +18,49 @@ header {
 header h1 {
     font-weight: bold;
     font-size: 36px;
-    /* add color */
+    color: #5871B0;
     margin: 0;
     display: inline;
+}
+
+header a {
+    text-decoration: none;
+    color: #303645;
+    border: 3px solid #ADE4E5;
+    background-color: #ADE4E5;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-size: 22px;
+    text-decoration: underline 5px;
+    color: #ADE4E5;
+    border: none;
+    background-color: #303645;
+}
+
+footer nav {
+    float: inline-start;
+    margin: 7px 0;
+}
+
+footer nav ul li {
+    display: inline;
+}
+
+footer nav ul li a {
+    margin: 0 30px;
+    font-weight: normal;
+    font-size: 22px;
+    color: #5871B0;
+    text-decoration: underline 5px;
 }
