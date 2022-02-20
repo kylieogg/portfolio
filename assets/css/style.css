@@ -64,3 +64,31 @@ footer nav ul li a {
     color: #5871B0;
     text-decoration: underline 5px;
 }
+
+section {
+    padding: 60px;
+}
+
+/* Hero Style Start */
+.hero {
+    background-image: url('../images/blue-and-pink-fence.webp');
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.hero a {
+    font-weight: bold;
+    font-size: 36px;
+    color: #303645;
+    margin: 0;
+    display: inline;
+    text-decoration: none;
+    border: 3px solid #ADE4E5;
+    background-color: #ADE4E5;
+    text-align: right;
+    float: right;
+    position: relative; top: 250px;
+    
+}
