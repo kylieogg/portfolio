@@ -92,3 +92,9 @@ section {
     position: relative; top: 250px;
     
 }
+
+.profile-pic {
+    float: left;
+    position: absolute; top: 15px; left: 10px;
+}
+/* Hero Style End */
