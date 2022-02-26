@@ -135,3 +135,9 @@ section p {
     background-color: var(--secondary);
     padding: 8px 10px;
 }
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
