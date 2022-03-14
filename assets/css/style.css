@@ -141,3 +141,7 @@ section p {
     flex-wrap: wrap;
     justify-content: center;
 }
+
+#run-buddy {
+    background-image: url('../images/run-buddy-image.png');
+}
