@@ -145,3 +145,19 @@ section p {
 #run-buddy {
     background-image: url('../images/run-buddy-image.png');
 }
+
+#pastel-puzzles {
+    background-image: url('../images/pastel-puzzles-placeholder.jpeg');
+}
+
+#calculator {
+    background-image: url('../images/calculator-placeholder.jpeg')
+}
+
+#led-wall {
+    background-image: url('../images/led-wall-placeholder.jpeg');
+}
+
+#surf-report {
+    background-image: url('../images/surf-report-placeholder.jpeg');
+}
