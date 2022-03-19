@@ -100,6 +100,7 @@ section p {
 .profile-pic {
     float: left;
     position: absolute; top: 15px; left: 10px;
+    border: solid #ADE4E5 5px;
 }
 /* Hero Style End */
 
@@ -144,21 +145,26 @@ section p {
 
 #run-buddy {
     background-image: url('../images/run-buddy-image.png');
+    border: solid #ADE4E5 5px;
 }
 
 #pastel-puzzles {
     background-image: url('../images/pastel-puzzles-placeholder.jpeg');
+    border: solid #ADE4E5 5px;
 }
 
 #calculator {
-    background-image: url('../images/calculator-placeholder.jpeg')
+    background-image: url('../images/calculator-placeholder.jpeg');
+    border: solid #ADE4E5 5px;
 }
 
 #led-wall {
     background-image: url('../images/led-wall-placeholder.jpeg');
+    border: solid #ADE4E5 5px;
 }
 
 #surf-report {
     background-image: url('../images/surf-report-placeholder.jpeg');
+    border: solid #ADE4E5 5px;
     
 }
